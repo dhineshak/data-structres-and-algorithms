@@ -1,5 +1,8 @@
 package com.analysis_algorithm;
 
+/*
+ * To find sum of natural numbers
+ */
 public class SumOfNaturalNumbers {
 
 	public static int sumUsingFormula(int number) {
